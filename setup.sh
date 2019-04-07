@@ -5,6 +5,7 @@ sudo apt-get install unzip
 sudo apt-get install gsettings
 
 mkdir $HOME/Pictures/Wallpapers/mojave-dynamic
+mkdir $HOME/Pictures/Wallpapers/mojave-dynamic/Wallpapers
 wget https://files.rb.gd/mojave_dynamic.zip -P $HOME/Pictures/Wallpapers/mojave-dynamic/
 wget https://raw.githubusercontent.com/thelcrysis/Mojave-GTK-dynamic-background/master/mojave.xml -P $HOME/Pictures/Wallpapers/
 unzip $HOME/Pictures/Wallpapers/mojave-dynamic/mojave_dynamic.zip -d $HOME/Pictures/Wallpapers/mojave-dynamic/
