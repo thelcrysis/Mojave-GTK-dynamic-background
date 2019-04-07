@@ -161,7 +161,7 @@
   </transition>
   <!-- 20:00 -->
   <static>
-    <duration>14355.0</duration>
+    <duration>14395.0</duration>
     <file>/home/username/Pictures/Wallpapers/mojave-dynamic/mojave_dynamic_14.jpeg</file>
   </static>
   <transition type="overlay">
