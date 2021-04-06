@@ -3,7 +3,7 @@ Recreates macOS Mojave dynamic background for GTK+ based GUIs, primarily made an
 
 ![example](mojave.jpg)
 
-`mojave.xml` file used in my script is based on [trongthanh's mojave.xml](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702), few things are corrected in my fork.
+`mojave.xml` file used in my script is based on [trongthanh's mojave.xml](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702), few things are changed in my fork and automation script is added.
 
 ## How to run
 ``` 
